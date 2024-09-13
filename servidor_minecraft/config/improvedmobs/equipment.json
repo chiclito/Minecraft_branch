@@ -1,0 +1,3160 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "betterend:aeternium_axe": [
+      2194,
+      7.405473
+    ],
+    "betterend:aeternium_sword": [
+      2268,
+      7.2514286
+    ],
+    "betterend:terminite_axe": [
+      3856,
+      3.8416624
+    ],
+    "betterend:terminite_sword": [
+      3955,
+      3.579698
+    ],
+    "betterend:thallasium_axe": [
+      5457,
+      0.66491455
+    ],
+    "betterend:thallasium_sword": [
+      5538,
+      0.54957026
+    ],
+    "betternether:cincinnasite_axe": [
+      5096,
+      1.1332608
+    ],
+    "betternether:cincinnasite_axe_diamond": [
+      2456,
+      6.859946
+    ],
+    "betternether:cincinnasite_sword": [
+      5189,
+      1.0140219
+    ],
+    "betternether:cincinnasite_sword_diamond": [
+      2524,
+      6.7182612
+    ],
+    "betternether:flaming_ruby_axe": [
+      1037,
+      9.81733
+    ],
+    "betternether:flaming_ruby_sword": [
+      1084,
+      9.719118
+    ],
+    "betternether:nether_ruby_axe": [
+      1628,
+      8.584065
+    ],
+    "betternether:nether_ruby_sword": [
+      1691,
+      8.452794
+    ],
+    "magistuarmory:barbedclub": [
+      5545,
+      0.5387573
+    ],
+    "magistuarmory:blacksmith_hammer": [
+      5097,
+      1.1319785
+    ],
+    "magistuarmory:bronze_ahlspiess": [
+      5690,
+      0.0446
+    ],
+    "magistuarmory:bronze_bastardsword": [
+      5657,
+      0.0479
+    ],
+    "magistuarmory:bronze_chainmorgenstern": [
+      5490,
+      0.61943495
+    ],
+    "magistuarmory:bronze_chivalrylance": [
+      5698,
+      0.0438
+    ],
+    "magistuarmory:bronze_claymore": [
+      5477,
+      0.6375215
+    ],
+    "magistuarmory:bronze_concavehalberd": [
+      5476,
+      0.63890266
+    ],
+    "magistuarmory:bronze_estoc": [
+      5662,
+      0.047399998
+    ],
+    "magistuarmory:bronze_flamebladedsword": [
+      5528,
+      0.5646679
+    ],
+    "magistuarmory:bronze_guisarme": [
+      5706,
+      0.042999998
+    ],
+    "magistuarmory:bronze_heavymace": [
+      5574,
+      0.49075553
+    ],
+    "magistuarmory:bronze_heavywarhammer": [
+      5558,
+      0.51799655
+    ],
+    "magistuarmory:bronze_katzbalger": [
+      5728,
+      0.040799998
+    ],
+    "magistuarmory:bronze_lochaberaxe": [
+      5480,
+      0.63336974
+    ],
+    "magistuarmory:bronze_lucernhammer": [
+      5583,
+      0.47422305
+    ],
+    "magistuarmory:bronze_morgenstern": [
+      5584,
+      0.47231403
+    ],
+    "magistuarmory:bronze_pike": [
+      5714,
+      0.042199995
+    ],
+    "magistuarmory:bronze_ranseur": [
+      5706,
+      0.042999998
+    ],
+    "magistuarmory:bronze_shortsword": [
+      5745,
+      0.0391
+    ],
+    "magistuarmory:bronze_stylet": [
+      5752,
+      0.038399998
+    ],
+    "magistuarmory:bronze_zweihander": [
+      5528,
+      0.5646679
+    ],
+    "magistuarmory:club": [
+      5917,
+      0.0219
+    ],
+    "magistuarmory:copper_ahlspiess": [
+      5832,
+      0.030399999
+    ],
+    "magistuarmory:copper_bastardsword": [
+      5808,
+      0.0328
+    ],
+    "magistuarmory:copper_chainmorgenstern": [
+      5710,
+      0.0426
+    ],
+    "magistuarmory:copper_chivalrylance": [
+      5861,
+      0.0275
+    ],
+    "magistuarmory:copper_claymore": [
+      5682,
+      0.045399997
+    ],
+    "magistuarmory:copper_concavehalberd": [
+      5691,
+      0.044499997
+    ],
+    "magistuarmory:copper_estoc": [
+      5811,
+      0.0325
+    ],
+    "magistuarmory:copper_flamebladedsword": [
+      5729,
+      0.040699996
+    ],
+    "magistuarmory:copper_guisarme": [
+      5852,
+      0.028399998
+    ],
+    "magistuarmory:copper_heavymace": [
+      5759,
+      0.037699997
+    ],
+    "magistuarmory:copper_heavywarhammer": [
+      5754,
+      0.0382
+    ],
+    "magistuarmory:copper_katzbalger": [
+      5851,
+      0.028499998
+    ],
+    "magistuarmory:copper_lochaberaxe": [
+      5700,
+      0.0436
+    ],
+    "magistuarmory:copper_lucernhammer": [
+      5768,
+      0.036799997
+    ],
+    "magistuarmory:copper_morgenstern": [
+      5761,
+      0.037499998
+    ],
+    "magistuarmory:copper_pike": [
+      5854,
+      0.028199999
+    ],
+    "magistuarmory:copper_ranseur": [
+      5850,
+      0.028599998
+    ],
+    "magistuarmory:copper_shortsword": [
+      5861,
+      0.0275
+    ],
+    "magistuarmory:copper_stylet": [
+      5867,
+      0.0269
+    ],
+    "magistuarmory:copper_zweihander": [
+      5729,
+      0.040699996
+    ],
+    "magistuarmory:diamond_ahlspiess": [
+      3113,
+      5.485265
+    ],
+    "magistuarmory:diamond_bastardsword": [
+      3078,
+      5.5590596
+    ],
+    "magistuarmory:diamond_chainmorgenstern": [
+      2451,
+      6.8703613
+    ],
+    "magistuarmory:diamond_chivalrylance": [
+      3324,
+      5.0374475
+    ],
+    "magistuarmory:diamond_claymore": [
+      1959,
+      7.89466
+    ],
+    "magistuarmory:diamond_concavehalberd": [
+      2567,
+      6.6286325
+    ],
+    "magistuarmory:diamond_estoc": [
+      3083,
+      5.5485244
+    ],
+    "magistuarmory:diamond_flamebladedsword": [
+      2589,
+      6.5827637
+    ],
+    "magistuarmory:diamond_guisarme": [
+      3351,
+      4.9796605
+    ],
+    "magistuarmory:diamond_heavymace": [
+      2633,
+      6.490998
+    ],
+    "magistuarmory:diamond_heavywarhammer": [
+      2609,
+      6.5410576
+    ],
+    "magistuarmory:diamond_katzbalger": [
+      3391,
+      4.8937836
+    ],
+    "magistuarmory:diamond_lochaberaxe": [
+      2577,
+      6.6077847
+    ],
+    "magistuarmory:diamond_lucernhammer": [
+      2641,
+      6.4743094
+    ],
+    "magistuarmory:diamond_morgenstern": [
+      2649,
+      6.4576178
+    ],
+    "magistuarmory:diamond_pike": [
+      3361,
+      4.958223
+    ],
+    "magistuarmory:diamond_ranseur": [
+      3352,
+      4.977518
+    ],
+    "magistuarmory:diamond_shortsword": [
+      3411,
+      4.8507123
+    ],
+    "magistuarmory:diamond_stylet": [
+      3418,
+      4.8356147
+    ],
+    "magistuarmory:diamond_zweihander": [
+      2589,
+      6.5827637
+    ],
+    "magistuarmory:gold_ahlspiess": [
+      6053,
+      0.0083
+    ],
+    "magistuarmory:gold_bastardsword": [
+      6029,
+      0.0106999995
+    ],
+    "magistuarmory:gold_chainmorgenstern": [
+      5972,
+      0.0164
+    ],
+    "magistuarmory:gold_chivalrylance": [
+      6062,
+      0.0074
+    ],
+    "magistuarmory:gold_claymore": [
+      5983,
+      0.015299999
+    ],
+    "magistuarmory:gold_concavehalberd": [
+      5940,
+      0.019599998
+    ],
+    "magistuarmory:gold_estoc": [
+      6032,
+      0.010399999
+    ],
+    "magistuarmory:gold_flamebladedsword": [
+      5978,
+      0.0158
+    ],
+    "magistuarmory:gold_guisarme": [
+      6053,
+      0.0083
+    ],
+    "magistuarmory:gold_heavymace": [
+      6008,
+      0.0128
+    ],
+    "magistuarmory:gold_heavywarhammer": [
+      6003,
+      0.013299999
+    ],
+    "magistuarmory:gold_katzbalger": [
+      6052,
+      0.0084
+    ],
+    "magistuarmory:gold_lochaberaxe": [
+      5949,
+      0.0187
+    ],
+    "magistuarmory:gold_lucernhammer": [
+      6017,
+      0.011899999
+    ],
+    "magistuarmory:gold_morgenstern": [
+      6010,
+      0.0126
+    ],
+    "magistuarmory:gold_pike": [
+      6055,
+      0.0081
+    ],
+    "magistuarmory:gold_ranseur": [
+      6051,
+      0.0084999995
+    ],
+    "magistuarmory:gold_shortsword": [
+      6062,
+      0.0074
+    ],
+    "magistuarmory:gold_stylet": [
+      6068,
+      0.0068
+    ],
+    "magistuarmory:gold_zweihander": [
+      5978,
+      0.0158
+    ],
+    "magistuarmory:heavy_crossbow": [
+      3792,
+      3.9977505
+    ],
+    "magistuarmory:iron_ahlspiess": [
+      5597,
+      0.44568464
+    ],
+    "magistuarmory:iron_bastardsword": [
+      5564,
+      0.50804096
+    ],
+    "magistuarmory:iron_chainmorgenstern": [
+      5380,
+      0.7673663
+    ],
+    "magistuarmory:iron_chivalrylance": [
+      5613,
+      0.40483674
+    ],
+    "magistuarmory:iron_claymore": [
+      5350,
+      0.80652726
+    ],
+    "magistuarmory:iron_concavehalberd": [
+      5371,
+      0.7791448
+    ],
+    "magistuarmory:iron_estoc": [
+      5569,
+      0.49951923
+    ],
+    "magistuarmory:iron_flamebladedsword": [
+      5423,
+      0.7106087
+    ],
+    "magistuarmory:iron_guisarme": [
+      5621,
+      0.37663084
+    ],
+    "magistuarmory:iron_heavymace": [
+      5469,
+      0.648535
+    ],
+    "magistuarmory:iron_heavywarhammer": [
+      5453,
+      0.670341
+    ],
+    "magistuarmory:iron_katzbalger": [
+      5643,
+      0.049299996
+    ],
+    "magistuarmory:iron_lochaberaxe": [
+      5375,
+      0.7739134
+    ],
+    "magistuarmory:iron_lucernhammer": [
+      5478,
+      0.636139
+    ],
+    "magistuarmory:iron_morgenstern": [
+      5479,
+      0.634755
+    ],
+    "magistuarmory:iron_pike": [
+      5629,
+      0.33213976
+    ],
+    "magistuarmory:iron_ranseur": [
+      5621,
+      0.37663084
+    ],
+    "magistuarmory:iron_shortsword": [
+      5660,
+      0.047599997
+    ],
+    "magistuarmory:iron_stylet": [
+      5667,
+      0.0469
+    ],
+    "magistuarmory:iron_zweihander": [
+      5423,
+      0.7106087
+    ],
+    "magistuarmory:longbow": [
+      3496,
+      4.666484
+    ],
+    "magistuarmory:messer_sword": [
+      5592,
+      0.45638117
+    ],
+    "magistuarmory:netherite_ahlspiess": [
+      2194,
+      7.405473
+    ],
+    "magistuarmory:netherite_bastardsword": [
+      2157,
+      7.4824915
+    ],
+    "magistuarmory:netherite_chainmorgenstern": [
+      1395,
+      9.069859
+    ],
+    "magistuarmory:netherite_chivalrylance": [
+      2454,
+      6.8641124
+    ],
+    "magistuarmory:netherite_claymore": [
+      725,
+      10.469944
+    ],
+    "magistuarmory:netherite_concavehalberd": [
+      1541,
+      8.7654
+    ],
+    "magistuarmory:netherite_estoc": [
+      2163,
+      7.470002
+    ],
+    "magistuarmory:netherite_flamebladedsword": [
+      1580,
+      8.684103
+    ],
+    "magistuarmory:netherite_guisarme": [
+      2501,
+      6.766191
+    ],
+    "magistuarmory:netherite_heavymace": [
+      1590,
+      8.66326
+    ],
+    "magistuarmory:netherite_heavywarhammer": [
+      1585,
+      8.673682
+    ],
+    "magistuarmory:netherite_katzbalger": [
+      2563,
+      6.636972
+    ],
+    "magistuarmory:netherite_lochaberaxe": [
+      1558,
+      8.729961
+    ],
+    "magistuarmory:netherite_lucernhammer": [
+      1591,
+      8.661177
+    ],
+    "magistuarmory:netherite_morgenstern": [
+      1600,
+      8.64242
+    ],
+    "magistuarmory:netherite_pike": [
+      2516,
+      6.734934
+    ],
+    "magistuarmory:netherite_ranseur": [
+      2504,
+      6.7599397
+    ],
+    "magistuarmory:netherite_shortsword": [
+      2587,
+      6.586934
+    ],
+    "magistuarmory:netherite_stylet": [
+      2594,
+      6.5723376
+    ],
+    "magistuarmory:netherite_zweihander": [
+      1580,
+      8.684103
+    ],
+    "magistuarmory:noble_sword": [
+      5569,
+      0.49951923
+    ],
+    "magistuarmory:pitchfork": [
+      5524,
+      0.57060856
+    ],
+    "magistuarmory:rusted_bastardsword": [
+      5623,
+      0.36782715
+    ],
+    "magistuarmory:rusted_heavymace": [
+      5623,
+      0.36782715
+    ],
+    "magistuarmory:silver_ahlspiess": [
+      5662,
+      0.047399998
+    ],
+    "magistuarmory:silver_bastardsword": [
+      5632,
+      0.3019698
+    ],
+    "magistuarmory:silver_chainmorgenstern": [
+      5483,
+      0.62920517
+    ],
+    "magistuarmory:silver_chivalrylance": [
+      5693,
+      0.044299997
+    ],
+    "magistuarmory:silver_claymore": [
+      5443,
+      0.6838428
+    ],
+    "magistuarmory:silver_concavehalberd": [
+      5457,
+      0.66491455
+    ],
+    "magistuarmory:silver_estoc": [
+      5636,
+      0.049999997
+    ],
+    "magistuarmory:silver_flamebladedsword": [
+      5517,
+      0.5808878
+    ],
+    "magistuarmory:silver_guisarme": [
+      5690,
+      0.0446
+    ],
+    "magistuarmory:silver_heavymace": [
+      5554,
+      0.5244919
+    ],
+    "magistuarmory:silver_heavywarhammer": [
+      5545,
+      0.5387573
+    ],
+    "magistuarmory:silver_katzbalger": [
+      5698,
+      0.0438
+    ],
+    "magistuarmory:silver_lochaberaxe": [
+      5476,
+      0.63890266
+    ],
+    "magistuarmory:silver_lucernhammer": [
+      5563,
+      0.50971955
+    ],
+    "magistuarmory:silver_morgenstern": [
+      5560,
+      0.51470804
+    ],
+    "magistuarmory:silver_pike": [
+      5694,
+      0.0442
+    ],
+    "magistuarmory:silver_ranseur": [
+      5688,
+      0.0448
+    ],
+    "magistuarmory:silver_shortsword": [
+      5711,
+      0.0425
+    ],
+    "magistuarmory:silver_stylet": [
+      5718,
+      0.041799996
+    ],
+    "magistuarmory:silver_zweihander": [
+      5517,
+      0.5808878
+    ],
+    "magistuarmory:steel_ahlspiess": [
+      5301,
+      0.87001157
+    ],
+    "magistuarmory:steel_bastardsword": [
+      5266,
+      0.91512454
+    ],
+    "magistuarmory:steel_chainmorgenstern": [
+      5021,
+      1.2294873
+    ],
+    "magistuarmory:steel_chivalrylance": [
+      5329,
+      0.8337938
+    ],
+    "magistuarmory:steel_claymore": [
+      4944,
+      1.328455
+    ],
+    "magistuarmory:steel_concavehalberd": [
+      5043,
+      1.2012469
+    ],
+    "magistuarmory:steel_estoc": [
+      5271,
+      0.9086883
+    ],
+    "magistuarmory:steel_flamebladedsword": [
+      5075,
+      1.1601919
+    ],
+    "magistuarmory:steel_guisarme": [
+      5346,
+      0.811729
+    ],
+    "magistuarmory:steel_heavymace": [
+      5125,
+      1.0960796
+    ],
+    "magistuarmory:steel_heavywarhammer": [
+      5105,
+      1.1217209
+    ],
+    "magistuarmory:steel_katzbalger": [
+      5376,
+      0.7726047
+    ],
+    "magistuarmory:steel_lochaberaxe": [
+      5050,
+      1.192264
+    ],
+    "magistuarmory:steel_lucernhammer": [
+      5133,
+      1.0858237
+    ],
+    "magistuarmory:steel_morgenstern": [
+      5138,
+      1.0794138
+    ],
+    "magistuarmory:steel_pike": [
+      5355,
+      0.80001926
+    ],
+    "magistuarmory:steel_ranseur": [
+      5346,
+      0.811729
+    ],
+    "magistuarmory:steel_shortsword": [
+      5395,
+      0.74766654
+    ],
+    "magistuarmory:steel_stylet": [
+      5402,
+      0.73844004
+    ],
+    "magistuarmory:steel_zweihander": [
+      5075,
+      1.1601919
+    ],
+    "magistuarmory:stone_ahlspiess": [
+      5848,
+      0.028799998
+    ],
+    "magistuarmory:stone_bastardsword": [
+      5818,
+      0.031799998
+    ],
+    "magistuarmory:stone_chainmorgenstern": [
+      5702,
+      0.043399997
+    ],
+    "magistuarmory:stone_chivalrylance": [
+      5862,
+      0.0274
+    ],
+    "magistuarmory:stone_claymore": [
+      5696,
+      0.044
+    ],
+    "magistuarmory:stone_concavehalberd": [
+      5667,
+      0.0469
+    ],
+    "magistuarmory:stone_estoc": [
+      5822,
+      0.0314
+    ],
+    "magistuarmory:stone_flamebladedsword": [
+      5727,
+      0.040899996
+    ],
+    "magistuarmory:stone_guisarme": [
+      5859,
+      0.0277
+    ],
+    "magistuarmory:stone_heavymace": [
+      5764,
+      0.0372
+    ],
+    "magistuarmory:stone_heavywarhammer": [
+      5755,
+      0.038099997
+    ],
+    "magistuarmory:stone_katzbalger": [
+      5867,
+      0.0269
+    ],
+    "magistuarmory:stone_lochaberaxe": [
+      5686,
+      0.044999998
+    ],
+    "magistuarmory:stone_lucernhammer": [
+      5773,
+      0.0363
+    ],
+    "magistuarmory:stone_morgenstern": [
+      5770,
+      0.036599997
+    ],
+    "magistuarmory:stone_pike": [
+      5863,
+      0.0273
+    ],
+    "magistuarmory:stone_ranseur": [
+      5857,
+      0.0279
+    ],
+    "magistuarmory:stone_shortsword": [
+      5880,
+      0.0256
+    ],
+    "magistuarmory:stone_stylet": [
+      5887,
+      0.024899999
+    ],
+    "magistuarmory:stone_zweihander": [
+      5727,
+      0.040899996
+    ],
+    "magistuarmory:tin_ahlspiess": [
+      5869,
+      0.026699997
+    ],
+    "magistuarmory:tin_bastardsword": [
+      5845,
+      0.029099997
+    ],
+    "magistuarmory:tin_chainmorgenstern": [
+      5754,
+      0.0382
+    ],
+    "magistuarmory:tin_chivalrylance": [
+      5895,
+      0.024099998
+    ],
+    "magistuarmory:tin_claymore": [
+      5733,
+      0.040299997
+    ],
+    "magistuarmory:tin_concavehalberd": [
+      5733,
+      0.040299997
+    ],
+    "magistuarmory:tin_estoc": [
+      5848,
+      0.028799998
+    ],
+    "magistuarmory:tin_flamebladedsword": [
+      5771,
+      0.0365
+    ],
+    "magistuarmory:tin_guisarme": [
+      5886,
+      0.024999999
+    ],
+    "magistuarmory:tin_heavymace": [
+      5801,
+      0.033499997
+    ],
+    "magistuarmory:tin_heavywarhammer": [
+      5796,
+      0.033999998
+    ],
+    "magistuarmory:tin_katzbalger": [
+      5885,
+      0.0251
+    ],
+    "magistuarmory:tin_lochaberaxe": [
+      5742,
+      0.039399996
+    ],
+    "magistuarmory:tin_lucernhammer": [
+      5810,
+      0.0326
+    ],
+    "magistuarmory:tin_morgenstern": [
+      5803,
+      0.033299997
+    ],
+    "magistuarmory:tin_pike": [
+      5888,
+      0.024799999
+    ],
+    "magistuarmory:tin_ranseur": [
+      5884,
+      0.0252
+    ],
+    "magistuarmory:tin_shortsword": [
+      5895,
+      0.024099998
+    ],
+    "magistuarmory:tin_stylet": [
+      5901,
+      0.0235
+    ],
+    "magistuarmory:tin_zweihander": [
+      5771,
+      0.0365
+    ],
+    "magistuarmory:wood_ahlspiess": [
+      6004,
+      0.013199999
+    ],
+    "magistuarmory:wood_bastardsword": [
+      5980,
+      0.015599999
+    ],
+    "magistuarmory:wood_chainmorgenstern": [
+      5912,
+      0.0224
+    ],
+    "magistuarmory:wood_chivalrylance": [
+      6016,
+      0.011999999
+    ],
+    "magistuarmory:wood_claymore": [
+      5915,
+      0.0221
+    ],
+    "magistuarmory:wood_concavehalberd": [
+      5884,
+      0.0252
+    ],
+    "magistuarmory:wood_estoc": [
+      5983,
+      0.015299999
+    ],
+    "magistuarmory:wood_flamebladedsword": [
+      5922,
+      0.021399999
+    ],
+    "magistuarmory:wood_guisarme": [
+      6007,
+      0.0128999995
+    ],
+    "magistuarmory:wood_heavymace": [
+      5952,
+      0.018399999
+    ],
+    "magistuarmory:wood_heavywarhammer": [
+      5947,
+      0.0189
+    ],
+    "magistuarmory:wood_katzbalger": [
+      6006,
+      0.012999999
+    ],
+    "magistuarmory:wood_lochaberaxe": [
+      5893,
+      0.024299998
+    ],
+    "magistuarmory:wood_lucernhammer": [
+      5961,
+      0.0175
+    ],
+    "magistuarmory:wood_morgenstern": [
+      5954,
+      0.018199999
+    ],
+    "magistuarmory:wood_pike": [
+      6009,
+      0.0127
+    ],
+    "magistuarmory:wood_ranseur": [
+      6005,
+      0.013099999
+    ],
+    "magistuarmory:wood_shortsword": [
+      6016,
+      0.011999999
+    ],
+    "magistuarmory:wood_stylet": [
+      6022,
+      0.011399999
+    ],
+    "magistuarmory:wood_zweihander": [
+      5922,
+      0.021399999
+    ],
+    "mca:scythe": [
+      5852,
+      0.028399998
+    ],
+    "mcdw:axe_anchor": [
+      5481,
+      0.6319829
+    ],
+    "mcdw:axe_axe": [
+      5559,
+      0.51635593
+    ],
+    "mcdw:axe_encrusted_anchor": [
+      3247,
+      5.201559
+    ],
+    "mcdw:axe_firebrand": [
+      3364,
+      4.951788
+    ],
+    "mcdw:axe_highland": [
+      5621,
+      0.37663084
+    ],
+    "mcdw:bow_ancient_bow": [
+      14,
+      11.961593
+    ],
+    "mcdw:bow_bonebow": [
+      3934,
+      3.6383376
+    ],
+    "mcdw:bow_bubble_bow": [
+      3696,
+      4.2215376
+    ],
+    "mcdw:bow_bubble_burster": [
+      1054,
+      9.781804
+    ],
+    "mcdw:bow_burst_gale_bow": [
+      994,
+      9.907207
+    ],
+    "mcdw:bow_call_of_the_void": [
+      54,
+      11.877507
+    ],
+    "mcdw:bow_echo_of_the_valley": [
+      994,
+      9.907207
+    ],
+    "mcdw:bow_elite_power_bow": [
+      3636,
+      4.357304
+    ],
+    "mcdw:bow_green_menace": [
+      1054,
+      9.781804
+    ],
+    "mcdw:bow_guardian_bow": [
+      1134,
+      9.614665
+    ],
+    "mcdw:bow_haunted_bow": [
+      54,
+      11.877507
+    ],
+    "mcdw:bow_hunters_promise": [
+      3616,
+      4.402046
+    ],
+    "mcdw:bow_hunting_bow": [
+      3636,
+      4.357304
+    ],
+    "mcdw:bow_longbow": [
+      3796,
+      3.9881911
+    ],
+    "mcdw:bow_lost_souls": [
+      34,
+      11.919548
+    ],
+    "mcdw:bow_love_spell_bow": [
+      3976,
+      3.5185928
+    ],
+    "mcdw:bow_masters_bow": [
+      3616,
+      4.402046
+    ],
+    "mcdw:bow_mechanical_shortbow": [
+      3956,
+      3.5768492
+    ],
+    "mcdw:bow_nocturnal_bow": [
+      1034,
+      9.8236
+    ],
+    "mcdw:bow_phantom_bow": [
+      1034,
+      9.8236
+    ],
+    "mcdw:bow_pink_scoundrel": [
+      1054,
+      9.781804
+    ],
+    "mcdw:bow_power_bow": [
+      3656,
+      4.312321
+    ],
+    "mcdw:bow_purple_storm": [
+      3976,
+      3.5185928
+    ],
+    "mcdw:bow_red_snake": [
+      1154,
+      9.572892
+    ],
+    "mcdw:bow_sabrewing": [
+      1054,
+      9.781804
+    ],
+    "mcdw:bow_shivering_bow": [
+      1014,
+      9.8654
+    ],
+    "mcdw:bow_shortbow": [
+      3976,
+      3.5185928
+    ],
+    "mcdw:bow_snow_bow": [
+      3676,
+      4.2670755
+    ],
+    "mcdw:bow_soul_bow": [
+      3636,
+      4.357304
+    ],
+    "mcdw:bow_trickbow": [
+      1074,
+      9.740013
+    ],
+    "mcdw:bow_twin_bow": [
+      1074,
+      9.740013
+    ],
+    "mcdw:bow_twisting_vine_bow": [
+      3676,
+      4.2670755
+    ],
+    "mcdw:bow_void_bow": [
+      994,
+      9.907207
+    ],
+    "mcdw:bow_web_bow": [
+      1074,
+      9.740013
+    ],
+    "mcdw:bow_weeping_vine_bow": [
+      3676,
+      4.2670755
+    ],
+    "mcdw:bow_wind_bow": [
+      1014,
+      9.8654
+    ],
+    "mcdw:bow_winters_touch": [
+      1034,
+      9.8236
+    ],
+    "mcdw:crossbow_auto_crossbow": [
+      4092,
+      3.0657542
+    ],
+    "mcdw:crossbow_azure_seeker": [
+      4092,
+      3.0657542
+    ],
+    "mcdw:crossbow_baby_crossbow": [
+      4110,
+      2.9321702
+    ],
+    "mcdw:crossbow_burst_crossbow": [
+      4092,
+      3.0657542
+    ],
+    "mcdw:crossbow_butterfly_crossbow": [
+      4092,
+      3.0657542
+    ],
+    "mcdw:crossbow_cog_crossbow": [
+      4092,
+      3.0657542
+    ],
+    "mcdw:crossbow_corrupted_crossbow": [
+      422,
+      11.104857
+    ],
+    "mcdw:crossbow_doom_crossbow": [
+      530,
+      10.878422
+    ],
+    "mcdw:crossbow_dual_crossbow": [
+      4110,
+      2.9321702
+    ],
+    "mcdw:crossbow_exploding_crossbow": [
+      4092,
+      3.0657542
+    ],
+    "mcdw:crossbow_feral_soul_crossbow": [
+      4074,
+      3.1634672
+    ],
+    "mcdw:crossbow_firebolt_thrower": [
+      4110,
+      2.9321702
+    ],
+    "mcdw:crossbow_harp_crossbow": [
+      4092,
+      3.0657542
+    ],
+    "mcdw:crossbow_harpoon_crossbow": [
+      4038,
+      3.314751
+    ],
+    "mcdw:crossbow_heavy_crossbow": [
+      4092,
+      3.0657542
+    ],
+    "mcdw:crossbow_imploding_crossbow": [
+      4092,
+      3.0657542
+    ],
+    "mcdw:crossbow_lightning_harp_crossbow": [
+      1362,
+      9.138702
+    ],
+    "mcdw:crossbow_nautical_crossbow": [
+      1362,
+      9.138702
+    ],
+    "mcdw:crossbow_pride_of_the_piglins": [
+      440,
+      11.067108
+    ],
+    "mcdw:crossbow_rapid_crossbow": [
+      4092,
+      3.0657542
+    ],
+    "mcdw:crossbow_scatter_crossbow": [
+      4092,
+      3.0657542
+    ],
+    "mcdw:crossbow_shadow_crossbow": [
+      1398,
+      9.0636
+    ],
+    "mcdw:crossbow_slayer_crossbow": [
+      1470,
+      8.913433
+    ],
+    "mcdw:crossbow_soul_crossbow": [
+      4092,
+      3.0657542
+    ],
+    "mcdw:crossbow_soul_hunter_crossbow": [
+      1416,
+      9.026054
+    ],
+    "mcdw:crossbow_spellbound_crossbow": [
+      4092,
+      3.0657542
+    ],
+    "mcdw:crossbow_the_slicer": [
+      4056,
+      3.2440999
+    ],
+    "mcdw:crossbow_veiled_crossbow": [
+      1362,
+      9.138702
+    ],
+    "mcdw:crossbow_voidcaller_crossbow": [
+      1398,
+      9.0636
+    ],
+    "mcdw:dagger_backstabber": [
+      3439,
+      4.790248
+    ],
+    "mcdw:dagger_chill_gale_knife": [
+      3418,
+      4.8356147
+    ],
+    "mcdw:dagger_dagger": [
+      5684,
+      0.045199998
+    ],
+    "mcdw:dagger_fangs_of_frost": [
+      5684,
+      0.045199998
+    ],
+    "mcdw:dagger_moon": [
+      5684,
+      0.045199998
+    ],
+    "mcdw:dagger_resolute_tempest_knife": [
+      5667,
+      0.0469
+    ],
+    "mcdw:dagger_shear_dagger": [
+      5697,
+      0.043899998
+    ],
+    "mcdw:dagger_swift_striker": [
+      2619,
+      6.5202
+    ],
+    "mcdw:dagger_tempest_knife": [
+      5667,
+      0.0469
+    ],
+    "mcdw:dagger_the_beginning": [
+      2619,
+      6.5202
+    ],
+    "mcdw:dagger_the_end": [
+      2619,
+      6.5202
+    ],
+    "mcdw:dagger_void_touched_blade": [
+      3439,
+      4.790248
+    ],
+    "mcdw:double_axe_cursed": [
+      5522,
+      0.57356006
+    ],
+    "mcdw:double_axe_double": [
+      5559,
+      0.51635593
+    ],
+    "mcdw:double_axe_whirlwind": [
+      5559,
+      0.51635593
+    ],
+    "mcdw:gauntlet_gauntlet": [
+      5697,
+      0.043899998
+    ],
+    "mcdw:gauntlet_maulers": [
+      3439,
+      4.790248
+    ],
+    "mcdw:gauntlet_soul_fists": [
+      2640,
+      6.476395
+    ],
+    "mcdw:glaive_cackling_broom": [
+      5592,
+      0.45638117
+    ],
+    "mcdw:glaive_glaive": [
+      5592,
+      0.45638117
+    ],
+    "mcdw:glaive_grave_bane": [
+      5559,
+      0.51635593
+    ],
+    "mcdw:glaive_venom_glaive": [
+      5559,
+      0.51635593
+    ],
+    "mcdw:hammer_bone_cudgel": [
+      2448,
+      6.876611
+    ],
+    "mcdw:hammer_boneclub": [
+      5522,
+      0.57356006
+    ],
+    "mcdw:hammer_flail": [
+      5592,
+      0.45638117
+    ],
+    "mcdw:hammer_gravity": [
+      3294,
+      5.1015
+    ],
+    "mcdw:hammer_great_hammer": [
+      5559,
+      0.51635593
+    ],
+    "mcdw:hammer_mace": [
+      5592,
+      0.45638117
+    ],
+    "mcdw:hammer_stormlander": [
+      3253,
+      5.1888037
+    ],
+    "mcdw:hammer_suns_grace": [
+      3364,
+      4.951788
+    ],
+    "mcdw:scythe_frost_scythe": [
+      3364,
+      4.951788
+    ],
+    "mcdw:scythe_jailors_scythe": [
+      5621,
+      0.37663084
+    ],
+    "mcdw:scythe_skull_scythe": [
+      3364,
+      4.951788
+    ],
+    "mcdw:scythe_soul_scythe": [
+      3393,
+      4.889481
+    ],
+    "mcdw:sickle_last_laugh_gold": [
+      5667,
+      0.0469
+    ],
+    "mcdw:sickle_last_laugh_silver": [
+      5667,
+      0.0469
+    ],
+    "mcdw:sickle_nightmares_bite": [
+      5667,
+      0.0469
+    ],
+    "mcdw:sickle_sickle": [
+      5684,
+      0.045199998
+    ],
+    "mcdw:soul_dagger_eternal_knife": [
+      2532,
+      6.701589
+    ],
+    "mcdw:soul_dagger_soul_knife": [
+      5621,
+      0.37663084
+    ],
+    "mcdw:soul_dagger_truthseeker": [
+      2565,
+      6.632802
+    ],
+    "mcdw:staff_battlestaff": [
+      6022,
+      0.011399999
+    ],
+    "mcdw:staff_battlestaff_of_terror": [
+      5592,
+      0.45638117
+    ],
+    "mcdw:staff_growing_staff": [
+      5592,
+      0.45638117
+    ],
+    "mcdw:sword_beestinger": [
+      5697,
+      0.043899998
+    ],
+    "mcdw:sword_broadsword": [
+      5592,
+      0.45638117
+    ],
+    "mcdw:sword_broken_sawblade": [
+      5646,
+      0.049
+    ],
+    "mcdw:sword_claymore": [
+      5522,
+      0.57356006
+    ],
+    "mcdw:sword_coral_blade": [
+      5646,
+      0.049
+    ],
+    "mcdw:sword_cutlass": [
+      5667,
+      0.0469
+    ],
+    "mcdw:sword_dancers_sword": [
+      5646,
+      0.049
+    ],
+    "mcdw:sword_dark_katana": [
+      2532,
+      6.701589
+    ],
+    "mcdw:sword_diamond_sword_var": [
+      3393,
+      4.889481
+    ],
+    "mcdw:sword_freezing_foil": [
+      5684,
+      0.045199998
+    ],
+    "mcdw:sword_frost_slayer": [
+      3294,
+      5.1015
+    ],
+    "mcdw:sword_great_axeblade": [
+      5522,
+      0.57356006
+    ],
+    "mcdw:sword_hawkbrand": [
+      5559,
+      0.51635593
+    ],
+    "mcdw:sword_heartstealer": [
+      3294,
+      5.1015
+    ],
+    "mcdw:sword_iron_sword_var": [
+      5646,
+      0.049
+    ],
+    "mcdw:sword_katana": [
+      5621,
+      0.37663084
+    ],
+    "mcdw:sword_masters_katana": [
+      3364,
+      4.951788
+    ],
+    "mcdw:sword_mechanized_sawblade": [
+      3393,
+      4.889481
+    ],
+    "mcdw:sword_nameless_blade": [
+      5621,
+      0.37663084
+    ],
+    "mcdw:sword_obsidian_claymore": [
+      2454,
+      6.8641124
+    ],
+    "mcdw:sword_rapier": [
+      5697,
+      0.043899998
+    ],
+    "mcdw:sword_sinister": [
+      5559,
+      0.51635593
+    ],
+    "mcdw:sword_sponge_striker": [
+      3393,
+      4.889481
+    ],
+    "mcdw:sword_the_starless_night": [
+      2454,
+      6.8641124
+    ],
+    "medievalweapons:aeternium_big_axe": [
+      2171,
+      7.453349
+    ],
+    "medievalweapons:aeternium_dagger": [
+      2299,
+      7.1868916
+    ],
+    "medievalweapons:aeternium_francisca": [
+      2326,
+      7.1306777
+    ],
+    "medievalweapons:aeternium_healing_staff": [
+      2326,
+      7.1306777
+    ],
+    "medievalweapons:aeternium_javelin": [
+      2299,
+      7.1868916
+    ],
+    "medievalweapons:aeternium_lance": [
+      2268,
+      7.2514286
+    ],
+    "medievalweapons:aeternium_long_sword": [
+      2171,
+      7.453349
+    ],
+    "medievalweapons:aeternium_mace": [
+      2233,
+      7.32429
+    ],
+    "medievalweapons:aeternium_ninjato": [
+      2299,
+      7.1868916
+    ],
+    "medievalweapons:aeternium_rapier": [
+      2299,
+      7.1868916
+    ],
+    "medievalweapons:aeternium_sickle": [
+      2299,
+      7.1868916
+    ],
+    "medievalweapons:aeternium_small_axe": [
+      2194,
+      7.405473
+    ],
+    "medievalweapons:cincinnasite_big_axe": [
+      5096,
+      1.1332608
+    ],
+    "medievalweapons:cincinnasite_dagger": [
+      5212,
+      0.98451304
+    ],
+    "medievalweapons:cincinnasite_diamond_big_axe": [
+      2416,
+      6.943264
+    ],
+    "medievalweapons:cincinnasite_diamond_dagger": [
+      2551,
+      6.661986
+    ],
+    "medievalweapons:cincinnasite_diamond_francisca": [
+      2575,
+      6.6119547
+    ],
+    "medievalweapons:cincinnasite_diamond_healing_staff": [
+      2575,
+      6.6119547
+    ],
+    "medievalweapons:cincinnasite_diamond_javelin": [
+      2551,
+      6.661986
+    ],
+    "medievalweapons:cincinnasite_diamond_lance": [
+      2524,
+      6.7182612
+    ],
+    "medievalweapons:cincinnasite_diamond_long_sword": [
+      2416,
+      6.943264
+    ],
+    "medievalweapons:cincinnasite_diamond_mace": [
+      2492,
+      6.784944
+    ],
+    "medievalweapons:cincinnasite_diamond_ninjato": [
+      2551,
+      6.661986
+    ],
+    "medievalweapons:cincinnasite_diamond_rapier": [
+      2551,
+      6.661986
+    ],
+    "medievalweapons:cincinnasite_diamond_sickle": [
+      2551,
+      6.661986
+    ],
+    "medievalweapons:cincinnasite_diamond_small_axe": [
+      2456,
+      6.859946
+    ],
+    "medievalweapons:cincinnasite_francisca": [
+      5231,
+      0.9601197
+    ],
+    "medievalweapons:cincinnasite_healing_staff": [
+      5231,
+      0.9601197
+    ],
+    "medievalweapons:cincinnasite_javelin": [
+      5212,
+      0.98451304
+    ],
+    "medievalweapons:cincinnasite_lance": [
+      5189,
+      1.0140219
+    ],
+    "medievalweapons:cincinnasite_long_sword": [
+      5096,
+      1.1332608
+    ],
+    "medievalweapons:cincinnasite_mace": [
+      5162,
+      1.0486451
+    ],
+    "medievalweapons:cincinnasite_ninjato": [
+      5212,
+      0.98451304
+    ],
+    "medievalweapons:cincinnasite_rapier": [
+      5212,
+      0.98451304
+    ],
+    "medievalweapons:cincinnasite_sickle": [
+      5212,
+      0.98451304
+    ],
+    "medievalweapons:cincinnasite_small_axe": [
+      5131,
+      1.0883877
+    ],
+    "medievalweapons:diamond_big_axe": [
+      3294,
+      5.1015
+    ],
+    "medievalweapons:diamond_dagger": [
+      3418,
+      4.8356147
+    ],
+    "medievalweapons:diamond_francisca": [
+      3439,
+      4.790248
+    ],
+    "medievalweapons:diamond_healing_staff": [
+      3439,
+      4.790248
+    ],
+    "medievalweapons:diamond_javelin": [
+      3418,
+      4.8356147
+    ],
+    "medievalweapons:diamond_lance": [
+      3393,
+      4.889481
+    ],
+    "medievalweapons:diamond_long_sword": [
+      3294,
+      5.1015
+    ],
+    "medievalweapons:diamond_mace": [
+      3364,
+      4.951788
+    ],
+    "medievalweapons:diamond_ninjato": [
+      3418,
+      4.8356147
+    ],
+    "medievalweapons:diamond_rapier": [
+      3418,
+      4.8356147
+    ],
+    "medievalweapons:diamond_sickle": [
+      3418,
+      4.8356147
+    ],
+    "medievalweapons:diamond_small_axe": [
+      3331,
+      5.022479
+    ],
+    "medievalweapons:golden_big_axe": [
+      5992,
+      0.014399999
+    ],
+    "medievalweapons:golden_dagger": [
+      6068,
+      0.0068
+    ],
+    "medievalweapons:golden_francisca": [
+      6077,
+      0.0058999998
+    ],
+    "medievalweapons:golden_healing_staff": [
+      6077,
+      0.0058999998
+    ],
+    "medievalweapons:golden_javelin": [
+      6068,
+      0.0068
+    ],
+    "medievalweapons:golden_lance": [
+      6055,
+      0.0081
+    ],
+    "medievalweapons:golden_long_sword": [
+      5992,
+      0.014399999
+    ],
+    "medievalweapons:golden_mace": [
+      6038,
+      0.009799999
+    ],
+    "medievalweapons:golden_ninjato": [
+      6068,
+      0.0068
+    ],
+    "medievalweapons:golden_rapier": [
+      6068,
+      0.0068
+    ],
+    "medievalweapons:golden_sickle": [
+      6068,
+      0.0068
+    ],
+    "medievalweapons:golden_small_axe": [
+      6017,
+      0.011899999
+    ],
+    "medievalweapons:iron_big_axe": [
+      5559,
+      0.51635593
+    ],
+    "medievalweapons:iron_dagger": [
+      5667,
+      0.0469
+    ],
+    "medievalweapons:iron_francisca": [
+      5684,
+      0.045199998
+    ],
+    "medievalweapons:iron_healing_staff": [
+      5684,
+      0.045199998
+    ],
+    "medievalweapons:iron_javelin": [
+      5667,
+      0.0469
+    ],
+    "medievalweapons:iron_lance": [
+      5646,
+      0.049
+    ],
+    "medievalweapons:iron_long_sword": [
+      5559,
+      0.51635593
+    ],
+    "medievalweapons:iron_mace": [
+      5621,
+      0.37663084
+    ],
+    "medievalweapons:iron_ninjato": [
+      5667,
+      0.0469
+    ],
+    "medievalweapons:iron_rapier": [
+      5667,
+      0.0469
+    ],
+    "medievalweapons:iron_sickle": [
+      5667,
+      0.0469
+    ],
+    "medievalweapons:iron_small_axe": [
+      5592,
+      0.45638117
+    ],
+    "medievalweapons:long_bow": [
+      3350,
+      4.981804
+    ],
+    "medievalweapons:nether_ruby_big_axe": [
+      1591,
+      8.661177
+    ],
+    "medievalweapons:nether_ruby_dagger": [
+      1716,
+      8.40071
+    ],
+    "medievalweapons:nether_ruby_francisca": [
+      1738,
+      8.354879
+    ],
+    "medievalweapons:nether_ruby_healing_staff": [
+      1738,
+      8.354879
+    ],
+    "medievalweapons:nether_ruby_javelin": [
+      1716,
+      8.40071
+    ],
+    "medievalweapons:nether_ruby_lance": [
+      1691,
+      8.452794
+    ],
+    "medievalweapons:nether_ruby_long_sword": [
+      1591,
+      8.661177
+    ],
+    "medievalweapons:nether_ruby_mace": [
+      1661,
+      8.5153
+    ],
+    "medievalweapons:nether_ruby_ninjato": [
+      1716,
+      8.40071
+    ],
+    "medievalweapons:nether_ruby_rapier": [
+      1716,
+      8.40071
+    ],
+    "medievalweapons:nether_ruby_sickle": [
+      1716,
+      8.40071
+    ],
+    "medievalweapons:nether_ruby_small_axe": [
+      1628,
+      8.584065
+    ],
+    "medievalweapons:netherite_big_axe": [
+      2454,
+      6.8641124
+    ],
+    "medievalweapons:netherite_dagger": [
+      2594,
+      6.5723376
+    ],
+    "medievalweapons:netherite_francisca": [
+      2619,
+      6.5202
+    ],
+    "medievalweapons:netherite_healing_staff": [
+      2619,
+      6.5202
+    ],
+    "medievalweapons:netherite_javelin": [
+      2594,
+      6.5723376
+    ],
+    "medievalweapons:netherite_lance": [
+      2565,
+      6.632802
+    ],
+    "medievalweapons:netherite_long_sword": [
+      2454,
+      6.8641124
+    ],
+    "medievalweapons:netherite_mace": [
+      2532,
+      6.701589
+    ],
+    "medievalweapons:netherite_ninjato": [
+      2594,
+      6.5723376
+    ],
+    "medievalweapons:netherite_rapier": [
+      2594,
+      6.5723376
+    ],
+    "medievalweapons:netherite_sickle": [
+      2594,
+      6.5723376
+    ],
+    "medievalweapons:netherite_small_axe": [
+      2495,
+      6.778693
+    ],
+    "medievalweapons:recurve_bow": [
+      3674,
+      4.2716126
+    ],
+    "medievalweapons:stone_big_axe": [
+      5795,
+      0.034099996
+    ],
+    "medievalweapons:stone_dagger": [
+      5887,
+      0.024899999
+    ],
+    "medievalweapons:stone_francisca": [
+      5900,
+      0.023599999
+    ],
+    "medievalweapons:stone_healing_staff": [
+      5900,
+      0.023599999
+    ],
+    "medievalweapons:stone_javelin": [
+      5887,
+      0.024899999
+    ],
+    "medievalweapons:stone_lance": [
+      5870,
+      0.026599998
+    ],
+    "medievalweapons:stone_long_sword": [
+      5795,
+      0.034099996
+    ],
+    "medievalweapons:stone_mace": [
+      5849,
+      0.028699998
+    ],
+    "medievalweapons:stone_ninjato": [
+      5887,
+      0.024899999
+    ],
+    "medievalweapons:stone_rapier": [
+      5887,
+      0.024899999
+    ],
+    "medievalweapons:stone_sickle": [
+      5887,
+      0.024899999
+    ],
+    "medievalweapons:stone_small_axe": [
+      5824,
+      0.031199997
+    ],
+    "medievalweapons:terminite_big_axe": [
+      3856,
+      3.8416624
+    ],
+    "medievalweapons:terminite_dagger": [
+      3980,
+      3.5066187
+    ],
+    "medievalweapons:terminite_francisca": [
+      4001,
+      3.441595
+    ],
+    "medievalweapons:terminite_healing_staff": [
+      4001,
+      3.441595
+    ],
+    "medievalweapons:terminite_javelin": [
+      3980,
+      3.5066187
+    ],
+    "medievalweapons:terminite_lance": [
+      3955,
+      3.579698
+    ],
+    "medievalweapons:terminite_long_sword": [
+      3856,
+      3.8416624
+    ],
+    "medievalweapons:terminite_mace": [
+      3926,
+      3.6601396
+    ],
+    "medievalweapons:terminite_ninjato": [
+      3980,
+      3.5066187
+    ],
+    "medievalweapons:terminite_rapier": [
+      3980,
+      3.5066187
+    ],
+    "medievalweapons:terminite_sickle": [
+      3980,
+      3.5066187
+    ],
+    "medievalweapons:terminite_small_axe": [
+      3893,
+      3.74753
+    ],
+    "medievalweapons:thallasium_big_axe": [
+      5457,
+      0.66491455
+    ],
+    "medievalweapons:thallasium_dagger": [
+      5557,
+      0.5196304
+    ],
+    "medievalweapons:thallasium_francisca": [
+      5572,
+      0.4942926
+    ],
+    "medievalweapons:thallasium_healing_staff": [
+      5572,
+      0.4942926
+    ],
+    "medievalweapons:thallasium_javelin": [
+      5557,
+      0.5196304
+    ],
+    "medievalweapons:thallasium_lance": [
+      5538,
+      0.54957026
+    ],
+    "medievalweapons:thallasium_long_sword": [
+      5457,
+      0.66491455
+    ],
+    "medievalweapons:thallasium_mace": [
+      5515,
+      0.58379966
+    ],
+    "medievalweapons:thallasium_ninjato": [
+      5557,
+      0.5196304
+    ],
+    "medievalweapons:thallasium_rapier": [
+      5557,
+      0.5196304
+    ],
+    "medievalweapons:thallasium_sickle": [
+      5557,
+      0.5196304
+    ],
+    "medievalweapons:thallasium_small_axe": [
+      5488,
+      0.6222344
+    ],
+    "medievalweapons:thalleous_sword": [
+      3225,
+      5.248286
+    ],
+    "medievalweapons:wooden_big_axe": [
+      5946,
+      0.019
+    ],
+    "medievalweapons:wooden_dagger": [
+      6022,
+      0.011399999
+    ],
+    "medievalweapons:wooden_francisca": [
+      6031,
+      0.010499999
+    ],
+    "medievalweapons:wooden_healing_staff": [
+      6031,
+      0.010499999
+    ],
+    "medievalweapons:wooden_javelin": [
+      6022,
+      0.011399999
+    ],
+    "medievalweapons:wooden_lance": [
+      6009,
+      0.0127
+    ],
+    "medievalweapons:wooden_long_sword": [
+      5946,
+      0.019
+    ],
+    "medievalweapons:wooden_mace": [
+      5992,
+      0.014399999
+    ],
+    "medievalweapons:wooden_ninjato": [
+      6022,
+      0.011399999
+    ],
+    "medievalweapons:wooden_rapier": [
+      6022,
+      0.011399999
+    ],
+    "medievalweapons:wooden_sickle": [
+      6022,
+      0.011399999
+    ],
+    "medievalweapons:wooden_small_axe": [
+      5971,
+      0.0165
+    ],
+    "minecraft:bow": [
+      3568,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      3862,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      3331,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      3393,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      4536,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      5992,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      6055,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      5559,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      5646,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      4636,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      2495,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      2565,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      5586,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      4636,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      5762,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      5870,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      4436,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      3636,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      5946,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      6009,
+      0.0127
+    ],
+    "mobs_of_mythology:kobold_spear": [
+      5646,
+      0.049
+    ]
+  },
+  "OFFHAND": {
+    "guarding:netherite_shield": [
+      4747,
+      2.3545349
+    ],
+    "magistuarmory:bronze_buckler": [
+      4955,
+      2.0800936
+    ],
+    "magistuarmory:bronze_ellipticalshield": [
+      4915,
+      2.1327145
+    ],
+    "magistuarmory:bronze_heatershield": [
+      4955,
+      2.0800936
+    ],
+    "magistuarmory:bronze_kiteshield": [
+      4915,
+      2.1327145
+    ],
+    "magistuarmory:bronze_pavese": [
+      4795,
+      2.2910256
+    ],
+    "magistuarmory:bronze_rondache": [
+      4655,
+      3.2008622
+    ],
+    "magistuarmory:bronze_roundshield": [
+      4955,
+      2.0800936
+    ],
+    "magistuarmory:bronze_target": [
+      4955,
+      2.0800936
+    ],
+    "magistuarmory:bronze_tartsche": [
+      4955,
+      2.0800936
+    ],
+    "magistuarmory:copper_buckler": [
+      5035,
+      1.9750825
+    ],
+    "magistuarmory:copper_ellipticalshield": [
+      4995,
+      2.0275493
+    ],
+    "magistuarmory:copper_heatershield": [
+      5035,
+      1.9750825
+    ],
+    "magistuarmory:copper_kiteshield": [
+      4995,
+      2.0275493
+    ],
+    "magistuarmory:copper_pavese": [
+      4865,
+      2.1985962
+    ],
+    "magistuarmory:copper_rondache": [
+      4775,
+      2.3174753
+    ],
+    "magistuarmory:copper_roundshield": [
+      5035,
+      1.9750825
+    ],
+    "magistuarmory:copper_target": [
+      5035,
+      1.9750825
+    ],
+    "magistuarmory:copper_tartsche": [
+      5035,
+      1.9750825
+    ],
+    "magistuarmory:corruptedroundshield": [
+      5681,
+      1.13839
+    ],
+    "magistuarmory:diamond_buckler": [
+      2779,
+      7.4138
+    ],
+    "magistuarmory:diamond_ellipticalshield": [
+      2739,
+      7.497063
+    ],
+    "magistuarmory:diamond_heatershield": [
+      2779,
+      7.4138
+    ],
+    "magistuarmory:diamond_kiteshield": [
+      2739,
+      7.497063
+    ],
+    "magistuarmory:diamond_pavese": [
+      2891,
+      7.180646
+    ],
+    "magistuarmory:diamond_rondache": [
+      1389,
+      10.312961
+    ],
+    "magistuarmory:diamond_roundshield": [
+      2779,
+      7.4138
+    ],
+    "magistuarmory:diamond_target": [
+      2779,
+      7.4138
+    ],
+    "magistuarmory:diamond_tartsche": [
+      2779,
+      7.4138
+    ],
+    "magistuarmory:gold_buckler": [
+      5225,
+      1.7269388
+    ],
+    "magistuarmory:gold_ellipticalshield": [
+      5185,
+      1.7790304
+    ],
+    "magistuarmory:gold_heatershield": [
+      5225,
+      1.7269388
+    ],
+    "magistuarmory:gold_kiteshield": [
+      5185,
+      1.7790304
+    ],
+    "magistuarmory:gold_pavese": [
+      5031,
+      1.9803258
+    ],
+    "magistuarmory:gold_rondache": [
+      5059,
+      1.9436398
+    ],
+    "magistuarmory:gold_roundshield": [
+      5225,
+      1.7269388
+    ],
+    "magistuarmory:gold_target": [
+      5225,
+      1.7269388
+    ],
+    "magistuarmory:gold_tartsche": [
+      5225,
+      1.7269388
+    ],
+    "magistuarmory:iron_buckler": [
+      4875,
+      2.1854107
+    ],
+    "magistuarmory:iron_ellipticalshield": [
+      4835,
+      2.2381814
+    ],
+    "magistuarmory:iron_heatershield": [
+      4875,
+      2.1854107
+    ],
+    "magistuarmory:iron_kiteshield": [
+      4835,
+      2.2381814
+    ],
+    "magistuarmory:iron_pavese": [
+      4725,
+      2.3836782
+    ],
+    "magistuarmory:iron_rondache": [
+      4535,
+      3.6050973
+    ],
+    "magistuarmory:iron_roundshield": [
+      4875,
+      2.1854107
+    ],
+    "magistuarmory:iron_target": [
+      4875,
+      2.1854107
+    ],
+    "magistuarmory:iron_tartsche": [
+      4875,
+      2.1854107
+    ],
+    "magistuarmory:netherite_buckler": [
+      2027,
+      8.980167
+    ],
+    "magistuarmory:netherite_ellipticalshield": [
+      1987,
+      9.0636
+    ],
+    "magistuarmory:netherite_heatershield": [
+      2027,
+      8.980167
+    ],
+    "magistuarmory:netherite_kiteshield": [
+      1987,
+      9.0636
+    ],
+    "magistuarmory:netherite_pavese": [
+      2233,
+      8.550724
+    ],
+    "magistuarmory:netherite_rondache": [
+      261,
+      12.681339
+    ],
+    "magistuarmory:netherite_roundshield": [
+      2027,
+      8.980167
+    ],
+    "magistuarmory:netherite_target": [
+      2027,
+      8.980167
+    ],
+    "magistuarmory:netherite_tartsche": [
+      2027,
+      8.980167
+    ],
+    "magistuarmory:silver_buckler": [
+      4907,
+      2.1432476
+    ],
+    "magistuarmory:silver_ellipticalshield": [
+      4867,
+      2.1959586
+    ],
+    "magistuarmory:silver_heatershield": [
+      4907,
+      2.1432476
+    ],
+    "magistuarmory:silver_kiteshield": [
+      4867,
+      2.1959586
+    ],
+    "magistuarmory:silver_pavese": [
+      4753,
+      2.3465908
+    ],
+    "magistuarmory:silver_rondache": [
+      4583,
+      3.4637072
+    ],
+    "magistuarmory:silver_roundshield": [
+      4907,
+      2.1432476
+    ],
+    "magistuarmory:silver_target": [
+      4907,
+      2.1432476
+    ],
+    "magistuarmory:silver_tartsche": [
+      4907,
+      2.1432476
+    ],
+    "magistuarmory:steel_buckler": [
+      4635,
+      3.2843132
+    ],
+    "magistuarmory:steel_ellipticalshield": [
+      4595,
+      3.425496
+    ],
+    "magistuarmory:steel_heatershield": [
+      4635,
+      3.2843132
+    ],
+    "magistuarmory:steel_kiteshield": [
+      4595,
+      3.425496
+    ],
+    "magistuarmory:steel_pavese": [
+      4515,
+      3.6601396
+    ],
+    "magistuarmory:steel_rondache": [
+      4175,
+      4.4687543
+    ],
+    "magistuarmory:steel_roundshield": [
+      4635,
+      3.2843132
+    ],
+    "magistuarmory:steel_target": [
+      4635,
+      3.2843132
+    ],
+    "magistuarmory:steel_tartsche": [
+      4635,
+      3.2843132
+    ],
+    "magistuarmory:stone_buckler": [
+      5067,
+      1.933165
+    ],
+    "magistuarmory:stone_ellipticalshield": [
+      5027,
+      1.9855696
+    ],
+    "magistuarmory:stone_heatershield": [
+      5067,
+      1.933165
+    ],
+    "magistuarmory:stone_kiteshield": [
+      5027,
+      1.9855696
+    ],
+    "magistuarmory:stone_pavese": [
+      4893,
+      2.161688
+    ],
+    "magistuarmory:stone_rondache": [
+      4821,
+      2.2566686
+    ],
+    "magistuarmory:stone_roundshield": [
+      5067,
+      1.933165
+    ],
+    "magistuarmory:stone_target": [
+      5067,
+      1.933165
+    ],
+    "magistuarmory:stone_tartsche": [
+      5067,
+      1.933165
+    ],
+    "magistuarmory:tin_buckler": [
+      5067,
+      1.933165
+    ],
+    "magistuarmory:tin_ellipticalshield": [
+      5027,
+      1.9855696
+    ],
+    "magistuarmory:tin_heatershield": [
+      5067,
+      1.933165
+    ],
+    "magistuarmory:tin_kiteshield": [
+      5027,
+      1.9855696
+    ],
+    "magistuarmory:tin_pavese": [
+      4893,
+      2.161688
+    ],
+    "magistuarmory:tin_rondache": [
+      4823,
+      2.254027
+    ],
+    "magistuarmory:tin_roundshield": [
+      5067,
+      1.933165
+    ],
+    "magistuarmory:tin_target": [
+      5067,
+      1.933165
+    ],
+    "magistuarmory:tin_tartsche": [
+      5067,
+      1.933165
+    ],
+    "magistuarmory:wood_buckler": [
+      5181,
+      1.784244
+    ],
+    "magistuarmory:wood_ellipticalshield": [
+      5141,
+      1.8364235
+    ],
+    "magistuarmory:wood_heatershield": [
+      5181,
+      1.784244
+    ],
+    "magistuarmory:wood_kiteshield": [
+      5141,
+      1.8364235
+    ],
+    "magistuarmory:wood_pavese": [
+      4993,
+      2.030175
+    ],
+    "magistuarmory:wood_rondache": [
+      4995,
+      2.0275493
+    ],
+    "magistuarmory:wood_roundshield": [
+      5181,
+      1.784244
+    ],
+    "magistuarmory:wood_target": [
+      5181,
+      1.784244
+    ],
+    "magistuarmory:wood_tartsche": [
+      5181,
+      1.784244
+    ],
+    "mcdw:shield_royal_guard": [
+      2353,
+      8.30072
+    ],
+    "mcdw:shield_tower_guard": [
+      2353,
+      8.30072
+    ],
+    "mcdw:shield_vanguard": [
+      2353,
+      8.30072
+    ],
+    "minecraft:ender_pearl": [
+      5625,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      5597,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      5225,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      5303,
+      1.6255897
+    ]
+  },
+  "FEET": {
+    "betterend:aeternium_boots": [
+      893,
+      5.360601
+    ],
+    "betterend:crystalite_boots": [
+      1831,
+      2.9321702
+    ],
+    "betterend:terminite_boots": [
+      1627,
+      3.7135491
+    ],
+    "betterend:thallasium_boots": [
+      3049,
+      0.8350898
+    ],
+    "betternether:cincinnasite_boots": [
+      2484,
+      1.5620766
+    ],
+    "betternether:flaming_ruby_boots": [
+      1594,
+      3.798844
+    ],
+    "betternether:nether_ruby_boots": [
+      2155,
+      1.9908147
+    ],
+    "magistuarmory:ceremonial_boots": [
+      2027,
+      2.159053
+    ],
+    "magistuarmory:chainmail_boots": [
+      3145,
+      0.7092771
+    ],
+    "magistuarmory:crusader_boots": [
+      2832,
+      1.1140283
+    ],
+    "magistuarmory:cuirassier_boots": [
+      3332,
+      0.41076243
+    ],
+    "magistuarmory:gambeson_boots": [
+      3615,
+      0.024199998
+    ],
+    "magistuarmory:gothic_boots": [
+      2027,
+      2.159053
+    ],
+    "magistuarmory:jousting_boots": [
+      60,
+      7.1036096
+    ],
+    "magistuarmory:kastenbrust_boots": [
+      2027,
+      2.159053
+    ],
+    "magistuarmory:knight_boots": [
+      2027,
+      2.159053
+    ],
+    "magistuarmory:lamellar_boots": [
+      2681,
+      1.3078723
+    ],
+    "magistuarmory:maximilian_boots": [
+      1129,
+      4.8571787
+    ],
+    "magistuarmory:platemail_boots": [
+      2805,
+      1.1486491
+    ],
+    "magistuarmory:rustedchainmail_boots": [
+      3191,
+      0.64716274
+    ],
+    "magistuarmory:rustedcrusader_boots": [
+      2872,
+      1.0627478
+    ],
+    "magistuarmory:xivcenturyknight_boots": [
+      2543,
+      1.4857569
+    ],
+    "minecraft:chainmail_boots": [
+      3265,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      2349,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      3331,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      3017,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      3613,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      2222,
+      1.9030677
+    ]
+  },
+  "LEGS": {
+    "betterend:aeternium_leggings": [
+      926,
+      5.360601
+    ],
+    "betterend:crystalite_leggings": [
+      1864,
+      2.9321702
+    ],
+    "betterend:terminite_leggings": [
+      1750,
+      3.4574375
+    ],
+    "betterend:thallasium_leggings": [
+      3105,
+      0.8052262
+    ],
+    "betternether:cincinnasite_leggings": [
+      2517,
+      1.5620766
+    ],
+    "betternether:flaming_ruby_leggings": [
+      1627,
+      3.798844
+    ],
+    "betternether:nether_ruby_leggings": [
+      2188,
+      1.9908147
+    ],
+    "magistuarmory:chainmail_leggings": [
+      3160,
+      0.73315716
+    ],
+    "magistuarmory:crusader_leggings": [
+      2815,
+      1.1781505
+    ],
+    "magistuarmory:cuirassier_leggings": [
+      3399,
+      0.049099997
+    ],
+    "magistuarmory:gothic_leggings": [
+      2030,
+      2.1985962
+    ],
+    "magistuarmory:jousting_leggings": [
+      58,
+      7.176482
+    ],
+    "magistuarmory:kastenbrust_leggings": [
+      2030,
+      2.1985962
+    ],
+    "magistuarmory:knight_leggings": [
+      2030,
+      2.1985962
+    ],
+    "magistuarmory:maximilian_leggings": [
+      1137,
+      4.9109864
+    ],
+    "magistuarmory:pantyhose": [
+      3655,
+      0.0235
+    ],
+    "magistuarmory:platemail_leggings": [
+      2838,
+      1.1486491
+    ],
+    "magistuarmory:rustedchainmail_leggings": [
+      3216,
+      0.6581088
+    ],
+    "magistuarmory:xivcenturyknight_leggings": [
+      2549,
+      1.5206621
+    ],
+    "minecraft:chainmail_leggings": [
+      3298,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      2382,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      3364,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      3050,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      3646,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      2255,
+      1.9030677
+    ]
+  },
+  "CHEST": {
+    "betterend:aeternium_chestplate": [
+      952,
+      5.360601
+    ],
+    "betterend:crystalite_chestplate": [
+      1890,
+      2.9321702
+    ],
+    "betterend:elytra_armored": [
+      828,
+      5.62223
+    ],
+    "betterend:elytra_crystalite": [
+      1812,
+      3.336733
+    ],
+    "betterend:terminite_chestplate": [
+      1813,
+      3.3331153
+    ],
+    "betterend:thallasium_chestplate": [
+      3140,
+      0.7935043
+    ],
+    "betternether:cincinnasite_chestplate": [
+      2543,
+      1.5620766
+    ],
+    "betternether:flaming_ruby_chestplate": [
+      1653,
+      3.798844
+    ],
+    "betternether:nether_ruby_chestplate": [
+      2214,
+      1.9908147
+    ],
+    "magistuarmory:brigandine_chestplate": [
+      3180,
+      0.74107856
+    ],
+    "magistuarmory:ceremonial_chestplate": [
+      2058,
+      2.1959586
+    ],
+    "magistuarmory:chainmail_chestplate": [
+      3186,
+      0.73315716
+    ],
+    "magistuarmory:crusader_chestplate": [
+      2842,
+      1.1768677
+    ],
+    "magistuarmory:cuirassier_chestplate": [
+      3334,
+      0.5244919
+    ],
+    "magistuarmory:gambeson_chestplate": [
+      3671,
+      0.0245
+    ],
+    "magistuarmory:gothic_chestplate": [
+      2058,
+      2.1959586
+    ],
+    "magistuarmory:halfarmor_chestplate": [
+      2834,
+      1.1871315
+    ],
+    "magistuarmory:jousting_chestplate": [
+      61,
+      7.224365
+    ],
+    "magistuarmory:kastenbrust_chestplate": [
+      2058,
+      2.1959586
+    ],
+    "magistuarmory:knight_chestplate": [
+      2058,
+      2.1959586
+    ],
+    "magistuarmory:lamellar_chestplate": [
+      2738,
+      1.3104446
+    ],
+    "magistuarmory:maximilian_chestplate": [
+      1146,
+      4.9474964
+    ],
+    "magistuarmory:platemail_chestplate": [
+      2845,
+      1.173019
+    ],
+    "magistuarmory:rustedchainmail_chestplate": [
+      3241,
+      0.6594721
+    ],
+    "magistuarmory:rustedcrusader_chestplate": [
+      2906,
+      1.0947976
+    ],
+    "magistuarmory:rustedhalfarmor_chestplate": [
+      2897,
+      1.1063358
+    ],
+    "magistuarmory:wingedhussar_chestplate": [
+      3390,
+      0.4136078
+    ],
+    "magistuarmory:xivcenturyknight_chestplate": [
+      2575,
+      1.5206621
+    ],
+    "minecraft:chainmail_chestplate": [
+      3324,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      2408,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      3390,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      3076,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      3672,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      2281,
+      1.9030677
+    ]
+  },
+  "HEAD": {
+    "betterend:aeternium_helmet": [
+      949,
+      5.360601
+    ],
+    "betterend:crystalite_helmet": [
+      1887,
+      2.9321702
+    ],
+    "betterend:terminite_helmet": [
+      1560,
+      4.0191774
+    ],
+    "betterend:thallasium_helmet": [
+      3074,
+      0.8751751
+    ],
+    "betternether:cincinnasite_helmet": [
+      2540,
+      1.5620766
+    ],
+    "betternether:flaming_ruby_helmet": [
+      1650,
+      3.798844
+    ],
+    "betternether:nether_ruby_helmet": [
+      2211,
+      1.9908147
+    ],
+    "magistuarmory:armet": [
+      2018,
+      2.2447827
+    ],
+    "magistuarmory:barbute": [
+      2860,
+      1.1499316
+    ],
+    "magistuarmory:bascinet": [
+      2553,
+      1.5452459
+    ],
+    "magistuarmory:ceremonialarmet": [
+      2018,
+      2.2447827
+    ],
+    "magistuarmory:chainmail_helmet": [
+      3162,
+      0.7608098
+    ],
+    "magistuarmory:coif": [
+      3668,
+      0.0245
+    ],
+    "magistuarmory:crown_decoration": [
+      3255,
+      0.636139
+    ],
+    "magistuarmory:cuirassier_helmet": [
+      3360,
+      0.47422305
+    ],
+    "magistuarmory:face_helmet": [
+      2692,
+      1.3657873
+    ],
+    "magistuarmory:flowercrown_decoration": [
+      3868,
+      0.0045
+    ],
+    "magistuarmory:grand_bascinet": [
+      2018,
+      2.2447827
+    ],
+    "magistuarmory:greathelm": [
+      2828,
+      1.1909808
+    ],
+    "magistuarmory:kettlehat": [
+      2816,
+      1.2063804
+    ],
+    "magistuarmory:maximilian_helmet": [
+      1110,
+      5.0182
+    ],
+    "magistuarmory:minicrown_decoration": [
+      3255,
+      0.636139
+    ],
+    "magistuarmory:norman_helmet": [
+      2848,
+      1.1653225
+    ],
+    "magistuarmory:rustedbarbute": [
+      2911,
+      1.0845418
+    ],
+    "magistuarmory:rustedchainmail_helmet": [
+      3229,
+      0.67169523
+    ],
+    "magistuarmory:rustedgreathelm": [
+      2898,
+      1.1012076
+    ],
+    "magistuarmory:rustedkettlehat": [
+      2892,
+      1.1089
+    ],
+    "magistuarmory:rustednorman_helmet": [
+      3238,
+      0.6594721
+    ],
+    "magistuarmory:sallet": [
+      2018,
+      2.2447827
+    ],
+    "magistuarmory:shishak": [
+      2835,
+      1.1819993
+    ],
+    "magistuarmory:stechhelm": [
+      11,
+      7.322209
+    ],
+    "minecraft:chainmail_helmet": [
+      3321,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      2405,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      3387,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      3073,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      3669,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      2278,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      3017,
+      0.948558
+    ]
+  }
+}
